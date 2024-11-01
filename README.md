@@ -21,7 +21,7 @@ A Django-based platform for tracking, analyzing, and storing user behavior data.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-behavior-analytics-platform.git
+   git clone https://github.com/saeidsaadatigero/user-behavior-analytics-platform.git
    cd user-behavior-analytics-platform
    ```
 
