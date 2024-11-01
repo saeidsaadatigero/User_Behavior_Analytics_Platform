@@ -27,7 +27,7 @@ A Django-based platform for tracking, analyzing, and storing user behavior data.
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install django djangorestframework psycopg2-binary
    ```
 
 3. Set up the database:
